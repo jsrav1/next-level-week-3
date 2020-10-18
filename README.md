@@ -1,4 +1,4 @@
-# next-level-week-3
+:rocket: # next-level-week-3 :rocket:
 
 [Front-end] - HTML, CSS, Javascript
 
